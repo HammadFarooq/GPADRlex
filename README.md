@@ -20,4 +20,9 @@ This file contains a python script for generating user-defined number of cluster
 
 ## Instruction for using src/get_nclusters.py
 
-https://drive.google.com/open?id=14EPdGqJe32nGT9Eq14NBDdHBFNMCrYsz
+Perform the following steps to run the get_nclusters.py
+1) clone the GPADRlex with ```git clone https://github.com/HammadFarooq/GPADRlex.git```
+2) Download the distance matrix from the drive [link](https://drive.google.com/open?id=14EPdGqJe32nGT9Eq14NBDdHBFNMCrYsz) in GPADRlex/Data folder
+3) move to "GPADRlex/src" folder with ```cd GPADRlex/src```
+4) run the command ```python get_n_clusters.py "single" 100```. where "single" is the linkage criteria and 100 is the value of k (number of clusters).   Linkage can be one of the following: 'single', 'complete', 'average' ,'weighted', 'centroid', 'median' and 'ward'. 
+
