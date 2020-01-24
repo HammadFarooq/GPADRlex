@@ -1,6 +1,6 @@
 # GPADRlex: Grouped Phrasal Adverse Drug Reaction lexicon
 
-This repository contains supporting data and code used in our paper titled **"GPADRlex: Grouped Phrasal Adverse Drug Reaction lexicon"** that is submitted at **"2019 IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC 2019) "**.
+This repository contains supporting data and code used in our paper titled **"GPADRlex: Grouped Phrasal Adverse Drug Reaction lexicon"** that is published at **"2019 IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC 2019) "**.
 
 ## Files/Folders details
 
